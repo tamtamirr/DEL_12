@@ -1,4 +1,8 @@
 envs {
   envsCloud = [
+    {
+      uuid = "c0ae1ced-df68-431f-a58d-f70f7edb165a"
+      folderName = "Tamenv"
+    },
   ]
 }
